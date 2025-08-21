@@ -1,4 +1,4 @@
-package com.personalfinance.app.util;
+package com.personalfinance.app.security.util;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;

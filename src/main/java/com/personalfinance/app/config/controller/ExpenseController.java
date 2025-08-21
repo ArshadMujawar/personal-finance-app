@@ -1,4 +1,4 @@
-package com.personalfinance.app.controller;
+package com.personalfinance.app.config.controller;
 
 import com.personalfinance.app.dto.ExpenseRequest;
 import com.personalfinance.app.model.Expense;

@@ -4,7 +4,7 @@ import com.personalfinance.app.dto.AuthRequest;
 import com.personalfinance.app.dto.AuthResponse;
 import com.personalfinance.app.model.User;
 import com.personalfinance.app.repository.UserRepository;
-import com.personalfinance.app.util.JwtUtil;
+import com.personalfinance.app.security.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

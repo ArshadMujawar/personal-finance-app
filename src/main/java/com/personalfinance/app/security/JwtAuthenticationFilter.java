@@ -1,7 +1,7 @@
 package com.personalfinance.app.security;
 
 import com.personalfinance.app.repository.UserRepository;
-import com.personalfinance.app.util.JwtUtil;
+import com.personalfinance.app.security.util.JwtUtil;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
